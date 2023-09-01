@@ -1,0 +1,9 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using SampleAPP.Inteface;
+global using SampleAPP.Models;
+global using SampleAPP.Common;
+global using SampleAPP.Constant;
+global using System.Web.Mvc;
+global using System.Text.Json;
+global using SampleAPP.RepoLayer;
+global using System.Net;
